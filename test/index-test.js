@@ -44,3 +44,4 @@ describe('index', () => {
     })
   })
 })
+cosole.error("HALP!")
